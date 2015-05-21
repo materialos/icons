@@ -4,8 +4,8 @@ This is a public icon pack that anyone and everyone is invited to contribute to.
 
 ## Organization
 To keep things organized, we hope that you'll use this folder and file naming system:
-Contributions > Real Name and/or Real Name (Nickname) > Vector (or) Raster > app-name for icon if there's only one or foldername for multiple with alternative icon names being: app-name-alt
-Example: \Icon-Submission\Contributions\Daniel Hickman\Raster\athuplus\athuplus-alt.png
+Real Name and/or Real Name (Nickname) > Vector (or) Raster > app-name for icon if there's only one or foldername for multiple with alternative icon names being: appname_alt
+Example: \Icon-Submission\Daniel Hickman\Raster\athuplus\athuplus_alt.png
 
 ## Wanted Formats		
 If you decide to work with vector graphics, please upload two versions of your icon. One that is whatever file format you normally use to work with, and an SVG. This helps those without special tools to work and to be cross platformal. This is not mandatory, as some icons do not convert well - but regaurdless would be nice to do.
