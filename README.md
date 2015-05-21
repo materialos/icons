@@ -4,7 +4,7 @@ This is a public icon pack that anyone and everyone is invited to contribute to.
 
 ## Organization
 To keep things organized, we hope that you'll use this folder and file naming system:
-Real Name and/or Real Name (Nickname) > Vector (or) Raster > app-name for icon if there's only one or foldername for multiple with alternative icon names being: appname_alt
+Real Name or Real Name (Nickname) > Vector (or) Raster > app-name for icon if there's only one or foldername for multiple with alternative icon names being: appname_alt
 Example: \Icon-Submission\Daniel Hickman\Raster\athuplus\athuplus_alt.png
 
 ## Wanted Formats		
