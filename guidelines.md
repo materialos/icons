@@ -110,6 +110,14 @@ Removed, but acceptable:
 * Make sure the objects making the outside perimeter of the icon have a tint and shade that are on the object
 * If there is a drop shadow for a glyph that extends off of the icon, clip it so it doesn't interact with the whole icon's drop shadow
 
+## Icon Complexity:
+* Don't over complicate the icons with excessive raised object
+  * Think wisely about using more than two (including keyline or base shape)
+* Don't and too many spot colors that won't scale well for lower densities.
+
+## Read More:
+* See Google's Product Icon Specification: [Here](https://www.google.com/design/spec/style/icons.html#icons-product-icons)
+
 
 ***
 
