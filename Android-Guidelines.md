@@ -11,6 +11,8 @@
 
 **Export:** PNG-24 with transparency (PNG 32)
 
+**Pixel Perfection:** Please never use "Align Objects to Pixel Grid". It ruins absolutely everything. You should instead manually check that all dimensions and positions are all whole numbers.
+
 ## Objects:
 **Keyline Shapes:**
 * Rectangles: `152x152` (Square), `176x128` (Landscape), `128x176` (Portrait)
@@ -84,10 +86,7 @@ Metrics:
 * Gradient Slider Midpoint: `Position 33%`
 * End Node: `0% Opacity` *Color:* `White`
 * Angle: `-45 degrees`
-* Radial Circle: Covers the entire 192x192 area
-* Shouldn't create white outside of the icon
-
-Removed, but acceptable:
+* Shouldn't create white outside of the icon 
 * Radial Circle: Covers the entire icon perimeter (not including drop shadows)
 * Starting Point: Moved over at far as it can go towards the -45 indicator handle
 
