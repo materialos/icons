@@ -16,11 +16,11 @@
 
 ## Objects:
 **Keyline Shapes:**
-* Rectangles: `152x152` (Square), `176x128` (Landscape), `128x176` (Portrait)
-  * `12px` Radius rounded corners
-* Circle: `176x176`
+* Rectangles: `38x38` (Square), `44x32` (Landscape), `32x44` (Portrait)
+  * `3px` Radius rounded corners
+* Circle: `44x44`
 
-**Maximum Area:** `176x176`
+**Maximum Area:** `44x44`
 
 **Raised Objects:** *Need:* Long shadows, tints, shades, and drop shadows [*(See Raised Objects)*](#raised-objects)
 
@@ -72,9 +72,9 @@
 
 Metrics:
 * Mode: `Normal`
-* `4px` offset for both X and Y (For the -45 degree lighting)
-* ~~`0px` X and `4px` Y offset~~
-* `4px` blur
+* `1px` offset for both X and Y (For the -45 degree lighting)
+* ~~`0px` X and `1px` Y offset~~
+* `1px` blur
 * Colors: `Shade color`
 
 * Clip off the shadows if they extend past the icon's perimeter
@@ -92,7 +92,7 @@ Metrics:
 * Starting Point: Moved over at far as it can go towards the -45 indicator handle
 
 ## Whole Icon:
-Shouldn't extend past the `8px margin` on all for side of the icon for a max area of `176x176` pixels
+Shouldn't extend past the `2px margin` on all for side of the icon for a max area of `44x44` pixels
 
 **Drop Shadow:** Add two fills to the appearance of the icon layer or group
 * Stroke Color: No stroke
@@ -101,12 +101,12 @@ Shouldn't extend past the `8px margin` on all for side of the icon for a max are
 * Top Shadow:
   * Mode: `Multiply`
   * `0px` offset for both X and Y
-  * `2px` blur
+  * `.5px` blur
   * Color: `black` (#000000, not #202020)
 * Bottom Shadow:
   * Mode: `Multiply`
-  * `0px` offset for X and a `4px` for Y
-  * `2px` blur
+  * `0px` offset for X and a `1px` for Y
+  * `.5px` blur
   * Color: `black` (#000000, not #202020)
 
 * Make sure the objects making the outside perimeter of the icon have a tint and shade that are on the object
