@@ -27,6 +27,11 @@
 
 **Whole Icon:** *Need:* Tint, shade, drop shadow, raised object shadows clipped off if applicable [*(See Whole Icon)*](#whole-icon)
 
+## Crease (Suggestion):
+* Composed of two lines that are each the width of the object and 1px tall
+* Darker line should be the top, where the top down light wouldn't have as much of a direct effect.
+* 5% opacity shade color for top, 5% white for bottom (Unless the object it too light). 
+
 ## Colors:
 * Material Design Palette colors as much as possible. (some greens and special colors don't apply)
 * Limit use of gradient spots or objects (excluding lighting effects, -45° only)
@@ -62,8 +67,15 @@
 * Use 40% opacity white for Gray 50 to Gray 300 (100% when tint looks better on Gray 50 only)
 
 **Shade:** 
+* Must have at least one shade, preferred to have both.
+
+Type One:
+* Shade on the object on the last pixel up against the edge.
+
+Type Two:
 * If doesn't touch the outside perimeter (or transparency in case of glass effect): 1px below the object that creates the light effect.
-  * Don't leave a gap between the shade and the object
+
+* Don't leave a gap between the shade and the object
 
 **Crease:** Avoid folding or creasing the raised object if you do the object below without aligning them correctly
 
@@ -71,8 +83,12 @@
 
 Metrics:
 * Mode: `Normal`
+
+Type One (-45 Degree):
 * `4px` offset for both X and Y (For the -45 degree lighting)
-* ~~`0px` X and `4px` Y offset~~
+
+Type Two (Top Down):
+* `0px` X and `4px` Y offset
 * `4px` blur
 * Colors: `Shade color`
 
@@ -133,5 +149,3 @@ Shouldn't extend past the `8px margin` on all for side of the icon for a max are
   * Grandchild item
 
 [Link](#)
-
-~~Material Design guideline that doesn't fit into our guidelines~~
