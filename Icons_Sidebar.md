@@ -1,5 +1,8 @@
 ### Current Icon Count:
-**145** [at the time of this commit](https://github.com/Material-Design-Iconography/Icon-Submission/commit/bf3027539ad2ff16d7f993061c025faa86554ec1)
+**224** [at the time of this commit](https://github.com/materialos/Icons/commit/aad1cc39a5d8eb9bc16c8d2775745bbe51252264)
 
 ### Current Contributor Count:
-**12** [at the time of this commit](https://github.com/Material-Design-Iconography/Icon-Submission/commit/bf3027539ad2ff16d7f993061c025faa86554ec1)
+**16** [at the time of this commit](https://github.com/materialos/Icons/commit/aad1cc39a5d8eb9bc16c8d2775745bbe51252264)
+
+### Current Commit Count:
+**170** [at the time of this commit](https://github.com/materialos/Icons/commit/aad1cc39a5d8eb9bc16c8d2775745bbe51252264)

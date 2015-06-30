@@ -10,10 +10,6 @@
 
 **Pixel Perfection:** Please never use "Align Objects to Pixel Grid". It ruins absolutely everything. You should instead manually check that all dimensions and positions are all whole numbers.
 
-***
-**Unedited from Android Guidelines Past this Point**
-***
-
 ## Objects:
 **Keyline Shapes:**
 * Rectangles: `38x38` (Square), `44x32` (Landscape), `32x44` (Portrait)
