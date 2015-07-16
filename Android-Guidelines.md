@@ -99,7 +99,8 @@ Type Two (Top Down):
 **Gradient:**
 ** Mode: `Radial`
 * Starting Node: `10% Opacity` *Color:* `White`
-* Gradient Slider Midpoint: `Position 33%`
+* Gradient Slider Midpoint: `Position 33%` (Spec Material) **or**
+* Gradient Slider Midpoint: `Position 50%` (In Google's Icons)
 * End Node: `0% Opacity` *Color:* `White`
 * Angle: `-45 degrees`
 * Shouldn't create white outside of the icon 
