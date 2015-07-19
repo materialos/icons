@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="192px" height="192px" viewBox="0 0 192 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>Music Folder</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="76" height="40" rx="12"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="0" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.243137255   0 0 0 0 0.152941176   0 0 0 0 0.133333333  0 0 0 0.14 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner2"></feOffset>
+            <feGaussianBlur stdDeviation="0" in="shadowOffsetInner2" result="shadowBlurInner2"></feGaussianBlur>
+            <feComposite in="shadowBlurInner2" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner2"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.14 0" in="shadowInnerInner2" type="matrix" result="shadowMatrixInner2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-4" x="0" y="0" width="76" height="40" rx="12"></rect>
+        <radialGradient cx="0%" cy="0%" fx="0%" fy="0%" r="141.421356%" id="radialGradient-6">
+            <stop stop-color="#FFFFFF" stop-opacity="0.2" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.168 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.084 0" in="shadowBlurOuter2" type="matrix" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-8" x="0" y="0" width="176" height="128" rx="12"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="0" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.239215686   0 0 0 0 0.152941176   0 0 0 0 0.133333333  0 0 0 0.14 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Videos-Folder" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Music-Folder" sketch:type="MSArtboardGroup">
+            <g sketch:type="MSLayerGroup">
+                <g id="Rectangle-16-+-Finish-Lighting-+-Tints-Copy" transform="translate(8.000000, 20.000000)">
+                    <mask id="mask-2" sketch:name="Mask" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#90756B" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                    <mask id="mask-5" sketch:name="Mask Copy 2" fill="white">
+                        <use xlink:href="#path-4"></use>
+                    </mask>
+                    <use id="Mask-Copy-2" fill-opacity="0" fill="#D8D8D8" filter="url(#filter-3)" sketch:type="MSShapeGroup" xlink:href="#path-4"></use>
+                    <rect id="Finish-Lighting-+-Tints-Copy" fill="url(#radialGradient-6)" sketch:type="MSShapeGroup" mask="url(#mask-5)" x="-8" y="-20" width="192" height="192"></rect>
+                </g>
+                <g id="Oval-3-+-Rectangle-15" transform="translate(8.000000, 32.000000)">
+                    <mask id="mask-9" sketch:name="Mask" fill="white">
+                        <use xlink:href="#path-8"></use>
+                    </mask>
+                    <use id="Mask" fill="#AE9A93" filter="url(#filter-7)" sketch:type="MSShapeGroup" xlink:href="#path-8"></use>
+                    <path d="M110.222222,42.4166667 C110.222222,39.9875 108.222222,38 105.777778,38 L52.4444444,38 C50,38 48,39.9875 48,42.4166667 L48,86.5833333 C48,89.0125 50,91 52.4444444,91 L105.777778,91 C108.222222,91 110.222222,89.0125 110.222222,86.5833333 L110.222222,71.125 L128,88.7916667 L128,40.2083333 L110.222222,57.875 L110.222222,42.4166667 Z" id="Shape" fill="#90756B" sketch:type="MSShapeGroup" mask="url(#mask-9)"></path>
+                    <rect id="Mask-Copy" fill-opacity="0" fill="#D8D8D8" filter="url(#filter-10)" sketch:type="MSShapeGroup" mask="url(#mask-9)" x="0" y="0" width="176" height="128" rx="12"></rect>
+                    <rect id="Finish-Lighting-+-Tints" fill="url(#radialGradient-6)" sketch:type="MSShapeGroup" mask="url(#mask-9)" x="-8" y="-32" width="192" height="192"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
