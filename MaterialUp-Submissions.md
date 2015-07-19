@@ -29,7 +29,7 @@ Both versions are included in the Illustrator file for scaling.
 
 #### Stats:
 
-Date Submitted: N/A
+Date Submitted: 7/18/2015
 
 Date Showcased: N/A
 
