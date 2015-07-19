@@ -1,5 +1,5 @@
 ## Ingress
-![Showcase](https://raw.githubusercontent.com/materialos/Illustrations/master/Daniel%20Hickman/MaterialUp/Raster/Ingress/color-two-shadow.png)
+![Showcase](https://raw.githubusercontent.com/materialos/Icons/204e922a39ad8a029de6636240d059d3c1c855ad/Daniel%20Hickman/MaterialUp/Raster/Ingress/color-two-shadow.png)
 
 #### Stats:
 
@@ -25,7 +25,7 @@ Both versions are included in the Illustrator file for scaling.
 
 ***
 ## Settings
-![Showcase](https://raw.githubusercontent.com/materialos/Illustrations/a9df265c106fe7d3507077571bdf2bfe97abcc70/Corbin%20Crutchley%20(crutchcorn)/MaterialUp/Raster/settings.png)
+![Showcase](https://raw.githubusercontent.com/materialos/Icons/204e922a39ad8a029de6636240d059d3c1c855ad/Corbin%20Crutchley%20(crutchcorn)/MaterialUp/Raster/settings.png)
 
 #### Stats:
 
