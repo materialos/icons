@@ -2,65 +2,58 @@
 <!-- Generator: Adobe Illustrator 19.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1"
-	 id="svg4258" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:cc="http://creativecommons.org/ns#" xmlns:svg="http://www.w3.org/2000/svg" sodipodi:docname="file-manager.svg" inkscape:version="0.91 r13725"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-439 861 200 200"
-	 style="enable-background:new -439 861 200 200;" xml:space="preserve">
+	 id="svg4258" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:svg="http://www.w3.org/2000/svg" sodipodi:docname="file-manager.svg" inkscape:version="0.91 r13725"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-859 441 200 200"
+	 style="enable-background:new -859 441 200 200;" xml:space="preserve">
 <style type="text/css">
-	.st0{opacity:0.335;filter:url(#filter5234);enable-background:new    ;}
+	.st0{opacity:0.335;enable-background:new    ;}
 	.st1{fill:#247CC4;}
-	.st2{opacity:0.411;filter:url(#filter4291);enable-background:new    ;}
+	.st2{opacity:0.411;enable-background:new    ;}
 	.st3{opacity:0.27;fill:url(#path5062_1_);enable-background:new    ;}
 	.st4{fill:#FFFFFF;}
-	.st5{opacity:0.5;clip-path:url(#SVGID_2_);filter:url(#filter4221);enable-background:new    ;}
+	.st5{opacity:0.5;clip-path:url(#SVGID_2_);enable-background:new    ;}
 	.st6{fill:#2196F3;}
 </style>
-<filter  height="1.1092688" width="1.1021695" style="color-interpolation-filters:sRGB" y="-0.054634424" x="-0.05108476" id="filter5234" inkscape:collect="always">
-	<feGaussianBlur  stdDeviation="3.7201472" id="feGaussianBlur5236" inkscape:collect="always"></feGaussianBlur>
-</filter>
-<filter  height="1.1099792" width="1.0590004" style="color-interpolation-filters:sRGB" y="-0.054989591" x="-0.029500201" id="filter4291" inkscape:collect="always">
-	<feGaussianBlur  stdDeviation="1.4428024" id="feGaussianBlur4293" inkscape:collect="always"></feGaussianBlur>
-</filter>
-<filter  height="1.137769" width="1.1062909" style="color-interpolation-filters:sRGB" y="-0.068884491" x="-0.053145475" id="filter4221" inkscape:collect="always">
-	<feGaussianBlur  stdDeviation="3.8702149" id="feGaussianBlur4223" inkscape:collect="always"></feGaussianBlur>
-</filter>
-<sodipodi:namedview  id="base" showgrid="false" inkscape:cy="105.4778" bordercolor="#666666" borderopacity="1.0" inkscape:cx="62.558155" units="px" inkscape:zoom="4" pagecolor="#4e4e4e" inkscape:window-width="1920" inkscape:pageopacity="0" inkscape:snap-object-midpoints="true" inkscape:pageshadow="2" inkscape:snap-center="true" inkscape:object-paths="true" inkscape:document-units="px" inkscape:object-nodes="true" inkscape:snap-smooth-nodes="true" inkscape:snap-midpoints="true" inkscape:snap-text-baseline="true" inkscape:window-x="1920" inkscape:current-layer="g5494" inkscape:window-height="944" inkscape:snap-page="true" inkscape:window-y="32" inkscape:window-maximized="1" inkscape:snap-intersection-paths="true">
+<sodipodi:namedview  id="base" inkscape:window-y="32" inkscape:window-width="1920" inkscape:document-units="px" inkscape:window-height="944" inkscape:current-layer="g5494" inkscape:window-x="1920" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-maximized="1" inkscape:snap-center="true" inkscape:snap-midpoints="true" inkscape:object-paths="true" inkscape:snap-text-baseline="true" inkscape:snap-object-midpoints="true" inkscape:snap-smooth-nodes="true" inkscape:snap-page="true" inkscape:object-nodes="true" units="px" inkscape:snap-intersection-paths="true" bordercolor="#666666" inkscape:zoom="4" borderopacity="1.0" showgrid="false" inkscape:cx="62.558155" inkscape:cy="105.4778" pagecolor="#4e4e4e">
 	</sodipodi:namedview>
 <g id="layer1" transform="translate(0,-852.36216)" inkscape:label="Layer 1" inkscape:groupmode="layer">
 	<g id="g5494">
 		<g id="rect4200-8" class="st0">
-			<path d="M-397.8,1737.9c-3.1,0-5.5,2.4-5.7,5.4h-2.8c-5.1,0-9.3,4.1-9.3,9.3v13.9c-5.9,0.2-10.8,4.8-10.5,10.4l6,114
+			<path d="M-1256.8,2178.9c-3.1,0-5.5,2.4-5.7,5.4h-2.8c-5.1,0-9.3,4.1-9.3,9.3v13.9c-5.9,0.2-10.8,4.8-10.5,10.4l6,114
 				c0.3,5.8,4.9,10.4,11,10.4h140.8c6.1,0,10.7-4.7,11-10.4l6-114c0.3-5.8-4.9-10.4-11-10.4h-1v-13.9c0-5.1-4.1-9.3-9.3-9.3h-93.3
-				c-0.1-3-2.6-5.4-5.7-5.4H-397.8z"/>
+				c-0.1-3-2.6-5.4-5.7-5.4H-1256.8z"/>
 		</g>
-		<path id="rect4200" class="st1" d="M-406.3,1743.4h133.8c5.1,0,9.3,4.1,9.3,9.3v30.3c0,5.1-4.1,9.3-9.3,9.3h-133.8
-			c-5.1,0-9.3-4.1-9.3-9.3v-30.3C-415.5,1747.5-411.4,1743.4-406.3,1743.4z"/>
-		<rect id="rect4202" x="-403.5" y="1737.9" class="st1" width="37.7" height="23.5"/>
+		<path id="rect4200" class="st1" d="M-1265.3,2184.4h133.8c5.1,0,9.3,4.1,9.3,9.3v30.3c0,5.1-4.1,9.3-9.3,9.3h-133.8
+			c-5.1,0-9.3-4.1-9.3-9.3v-30.3C-1274.5,2188.5-1270.4,2184.4-1265.3,2184.4z"/>
+		<rect id="rect4202" x="-1262.5" y="2178.9" class="st1" width="37.7" height="23.5"/>
 		<g id="rect4204-2" class="st2">
-			<rect x="-398.1" y="1751.8" width="117.4" height="63"/>
+			<rect x="-1257.1" y="2192.8" width="117.4" height="63"/>
 		</g>
 		
-			<linearGradient id="path5062_1_" gradientUnits="userSpaceOnUse" x1="-284.5334" y1="1022.3522" x2="-267.0983" y2="992.1536" gradientTransform="matrix(1 0 0 -1 0 2776.3623)">
+			<linearGradient id="path5062_1_" gradientUnits="userSpaceOnUse" x1="-1143.5594" y1="1351.0282" x2="-1126.1244" y2="1381.2267" gradientTransform="matrix(1 0 0 1 0 844.0001)">
 			<stop  offset="0" style="stop-color:#000000"/>
 			<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
 		</linearGradient>
-		<path id="path5062" inkscape:connector-curvature="0" class="st3" d="M-280.7,1751.8l17.4,17.4h-25L-280.7,1751.8z"/>
-		<rect id="rect4204" x="-398.1" y="1751.8" class="st4" width="117.4" height="63"/>
+		<path id="path5062" inkscape:connector-curvature="0" class="st3" d="M-1139.7,2192.8l17.4,17.4h-25L-1139.7,2192.8z"/>
+		<rect id="rect4204" x="-1257.1" y="2192.8" class="st4" width="117.4" height="63"/>
 		<g>
-			<defs>
-				<path id="SVGID_1_" d="M-406.3,1743.4h133.8c5.1,0,9.3,4.1,9.3,9.3v30.3c0,5.1-4.1,9.3-9.3,9.3h-133.8c-5.1,0-9.3-4.1-9.3-9.3
-					v-30.3C-415.5,1747.5-411.4,1743.4-406.3,1743.4z"/>
-			</defs>
-			<clipPath id="SVGID_2_">
-				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
-			</clipPath>
-			<g id="rect4197-4" sodipodi:nodetypes="sssssssss" inkscape:connector-curvature="0" class="st5">
-				<path d="M-415,1766.5h152.8c6.1,0,11.3,4.7,11,10.4l-6,114c-0.3,5.8-4.9,10.4-11,10.4H-409c-6.1,0-10.7-4.7-11-10.4l-6-114
-					C-426.3,1771.2-421.1,1766.5-415,1766.5z"/>
+			<g>
+				<defs>
+					<path id="SVGID_1_" d="M-1265.3,2184.4h133.8c5.1,0,9.3,4.1,9.3,9.3v30.3c0,5.1-4.1,9.3-9.3,9.3h-133.8c-5.1,0-9.3-4.1-9.3-9.3
+						v-30.3C-1274.5,2188.5-1270.4,2184.4-1265.3,2184.4z"/>
+				</defs>
+				<clipPath id="SVGID_2_">
+					<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+				</clipPath>
+				<g id="rect4197-4" inkscape:connector-curvature="0" sodipodi:nodetypes="sssssssss" class="st5">
+					<path d="M-1274,2207.5h152.8c6.1,0,11.3,4.7,11,10.4l-6,114c-0.3,5.8-4.9,10.4-11,10.4H-1268c-6.1,0-10.7-4.7-11-10.4l-6-114
+						C-1285.3,2212.2-1280.1,2207.5-1274,2207.5z"/>
+				</g>
 			</g>
 		</g>
-		<path id="rect4197" sodipodi:nodetypes="sssssssss" inkscape:connector-curvature="0" class="st6" d="M-415,1766.5h152.8
-			c6.1,0,11.3,4.7,11,10.4l-6,114c-0.3,5.8-4.9,10.4-11,10.4H-409c-6.1,0-10.7-4.7-11-10.4l-6-114
-			C-426.3,1771.2-421.1,1766.5-415,1766.5z"/>
+		<path id="rect4197" inkscape:connector-curvature="0" sodipodi:nodetypes="sssssssss" class="st6" d="M-1274,2207.5h152.8
+			c6.1,0,11.3,4.7,11,10.4l-6,114c-0.3,5.8-4.9,10.4-11,10.4H-1268c-6.1,0-10.7-4.7-11-10.4l-6-114
+			C-1285.3,2212.2-1280.1,2207.5-1274,2207.5z"/>
 	</g>
 </g>
 </svg>
