@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="supersu.svg"
-   inkscape:export-filename="C:\Users\Simon\Documents\Material Design Icon Pack\PNG\supersu.png"
+   inkscape:export-filename="C:\Users\Simon\Documents\Material Design Icons\PNG\supersu.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <sodipodi:namedview
@@ -26,13 +26,13 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="92.687364"
-     inkscape:cy="107.62481"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="670.67027"
+     inkscape:cy="67.948982"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
-     showgrid="true"
-     showguides="true"
+     showgrid="false"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
@@ -375,7 +375,10 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Drop Shadow"
-       id="filter4257">
+       id="filter4257"
+       width="1.4300000000000002"
+       height="1.4100000000000001"
+       y="-0.20000000000000007">
       <feFlood
          flood-opacity="0.20000000000000001"
          flood-color="rgb(38,50,56)"
@@ -452,7 +455,8 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Square 2"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <rect
        ry="10.897427"
        y="20.500031"
@@ -460,7 +464,7 @@
        height="150.99994"
        width="150.99994"
        id="rect7720"
-       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.00005436;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter7743)" />
+       style="display:inline;fill:#009688;fill-opacity:1;stroke:#009688;stroke-width:1.00005436;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter7743)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -474,7 +478,7 @@
        height="150.03645"
        width="151.00313"
        id="rect7755"
-       style="opacity:1;fill:#339489;fill-opacity:1;stroke:#339489;stroke-width:0.99686927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:0.2;fill:#339489;fill-opacity:1;stroke:#ffffff;stroke-width:0.99686927;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        ry="10.827893"
        y="21.465105"
@@ -482,9 +486,9 @@
        height="150.03645"
        width="151.00313"
        id="rect7757"
-       style="opacity:1;fill:#0a6c62;fill-opacity:1;stroke:#006d60;stroke-width:0.99699998;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:0.2;fill:#0a6c62;fill-opacity:1;stroke:#263238;stroke-width:0.99699998;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
-       style="fill:#00796b;fill-opacity:1;stroke:#00796b;stroke-width:0.99361873;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#009688;fill-opacity:1;stroke:#009688;stroke-width:0.99361873;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect3811"
        width="151.00638"
        height="149.05637"
@@ -566,7 +570,8 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Square 1"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <rect
        style="display:inline;opacity:0.1;fill:url(#radialGradient7770);fill-opacity:1;stroke:url(#radialGradient7778);stroke-width:1.00005436;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect7724"
