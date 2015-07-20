@@ -1,349 +1,91 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="192"
-   height="192"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="netflix.svg"
-   inkscape:export-filename="C:\Users\Simon\Documents\Material Design Icon Pack\PNG\netflix.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#e4e4e4"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="3.75"
-     inkscape:cx="101.34301"
-     inkscape:cy="84.922918"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer4"
-     showgrid="false"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:snap-global="false">
-    <inkscape:grid
-       snapvisiblegridlinesonly="true"
-       enabled="true"
-       visible="true"
-       empspacing="5"
-       id="grid2985"
-       type="xygrid" />
-    <sodipodi:guide
-       id="guide3002"
-       position="8,58.524064"
-       orientation="1,0" />
-    <sodipodi:guide
-       id="guide3004"
-       position="20,69.304813"
-       orientation="1,0" />
-    <sodipodi:guide
-       id="guide3006"
-       position="32,62.631016"
-       orientation="1,0" />
-    <sodipodi:guide
-       id="guide3008"
-       position="68,53.390374"
-       orientation="1,0" />
-    <sodipodi:guide
-       id="guide3010"
-       position="119.61497,8"
-       orientation="0,1" />
-    <sodipodi:guide
-       id="guide3012"
-       position="155.5508,20"
-       orientation="0,1" />
-    <sodipodi:guide
-       id="guide3014"
-       position="132.96257,32"
-       orientation="0,1" />
-    <sodipodi:guide
-       id="guide3016"
-       position="130.90909,68"
-       orientation="0,1" />
-    <sodipodi:guide
-       id="guide3018"
-       position="137.06952,184"
-       orientation="0,1" />
-    <sodipodi:guide
-       id="guide3020"
-       position="184,145.79679"
-       orientation="1,0" />
-    <sodipodi:guide
-       id="guide3022"
-       position="91.379679,172"
-       orientation="0,1" />
-    <sodipodi:guide
-       id="guide3024"
-       position="172.15693,140.10142"
-       orientation="1,0" />
-    <sodipodi:guide
-       id="guide3026"
-       position="149.39037,160"
-       orientation="0,1" />
-    <sodipodi:guide
-       id="guide3028"
-       position="160,88.299465"
-       orientation="1,0" />
-    <sodipodi:guide
-       id="guide3030"
-       position="128.34225,124"
-       orientation="0,1" />
-    <sodipodi:guide
-       id="guide3032"
-       position="124,92.919786"
-       orientation="1,0" />
-  </sodipodi:namedview>
-  <defs
-     id="defs4">
-    <linearGradient
-       id="linearGradient7772"
-       inkscape:collect="always">
-      <stop
-         id="stop7774"
-         offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
-      <stop
-         id="stop7776"
-         offset="1"
-         style="stop-color:#ffffff;stop-opacity:0;" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient7764"
-       inkscape:collect="always">
-      <stop
-         id="stop7766"
-         offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
-      <stop
-         id="stop7768"
-         offset="1"
-         style="stop-color:#ffffff;stop-opacity:0;" />
-    </linearGradient>
-    <filter
-       id="filter7743"
-       inkscape:label="Drop Shadow"
-       style="color-interpolation-filters:sRGB;">
-      <feFlood
-         id="feFlood7745"
-         result="flood"
-         flood-color="rgb(0,0,0)"
-         flood-opacity="0.301961" />
-      <feComposite
-         id="feComposite7747"
-         result="composite1"
-         operator="in"
-         in2="SourceGraphic"
-         in="flood" />
-      <feGaussianBlur
-         id="feGaussianBlur7749"
-         result="blur"
-         stdDeviation="1.7"
-         in="composite1" />
-      <feOffset
-         id="feOffset7751"
-         result="offset"
-         dy="3"
-         dx="4.57967e-015" />
-      <feComposite
-         id="feComposite7753"
-         result="composite2"
-         operator="over"
-         in2="offset"
-         in="SourceGraphic" />
-    </filter>
-    <radialGradient
-       gradientTransform="matrix(0.00253475,1.9947837,-2.002355,0.00254437,60.402743,-19.768048)"
-       gradientUnits="userSpaceOnUse"
-       r="75.999997"
-       fy="20.198149"
-       fx="20.009592"
-       cy="20.198151"
-       cx="20.009592"
-       id="radialGradient7770"
-       xlink:href="#linearGradient7764"
-       inkscape:collect="always" />
-    <radialGradient
-       gradientTransform="matrix(0.00253472,1.9947836,-2.0023549,0.00254435,60.40274,-19.768047)"
-       gradientUnits="userSpaceOnUse"
-       r="75.999997"
-       fy="20.198151"
-       fx="20.009592"
-       cy="20.198151"
-       cx="20.009592"
-       id="radialGradient7778"
-       xlink:href="#linearGradient7772"
-       inkscape:collect="always" />
-    <filter
-       style="color-interpolation-filters:sRGB;"
-       inkscape:label="Drop Shadow"
-       id="filter9347">
-      <feFlood
-         flood-opacity="0.101961"
-         flood-color="rgb(0,0,0)"
-         result="flood"
-         id="feFlood9349" />
-      <feComposite
-         in="flood"
-         in2="SourceGraphic"
-         operator="in"
-         result="composite1"
-         id="feComposite9351" />
-      <feGaussianBlur
-         in="composite1"
-         stdDeviation="3"
-         result="blur"
-         id="feGaussianBlur9353" />
-      <feOffset
-         dx="4.57967e-015"
-         dy="3"
-         result="offset"
-         id="feOffset9355" />
-      <feComposite
-         in="SourceGraphic"
-         in2="offset"
-         operator="over"
-         result="composite2"
-         id="feComposite9357" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB;"
-       inkscape:label="Drop Shadow"
-       id="filter4827">
-      <feFlood
-         flood-opacity="0.29999999999999999"
-         flood-color="rgb(0,0,0)"
-         result="flood"
-         id="feFlood4829" />
-      <feComposite
-         in="flood"
-         in2="SourceGraphic"
-         operator="in"
-         result="composite1"
-         id="feComposite4831" />
-      <feGaussianBlur
-         in="composite1"
-         stdDeviation="3"
-         result="blur"
-         id="feGaussianBlur4833" />
-      <feOffset
-         dx="4.57967e-015"
-         dy="3"
-         result="offset"
-         id="feOffset4835" />
-      <feComposite
-         in="SourceGraphic"
-         in2="offset"
-         operator="over"
-         result="composite2"
-         id="feComposite4837" />
-    </filter>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath9879">
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.99999595;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect9881"
-         width="175"
-         height="127"
-         x="8.5"
-         y="32.499981"
-         ry="4.1776319" />
-    </clipPath>
-  </defs>
-  <metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     style="display:inline"
-     inkscape:label="Square"
-     id="layer4"
-     inkscape:groupmode="layer">
-    <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.00005436;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect7755"
-       width="150.99994"
-       height="150.99994"
-       x="20.500031"
-       y="20.500031"
-       ry="10.897427" />
-    <rect
-       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#cccccc;stroke-width:0.96137232;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4827)"
-       id="rect7757"
-       width="151.03876"
-       height="139.47208"
-       x="20.480623"
-       y="32.047291"
-       ry="10.065479" />
-    <rect
-       ry="10.757162"
-       y="21.46348"
-       x="20.496813"
-       height="149.05637"
-       width="151.00638"
-       id="rect3811"
-       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.99361873;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot9367"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:roboto;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:roboto;font-stretch:normal;font-variant:normal;"><flowRegion
-         id="flowRegion9369"><rect
-           id="rect9371"
-           width="128.97627"
-           height="128.4106"
-           x="31.866945"
-           y="31.533901"
-           style="-inkscape-font-specification:roboto;font-family:roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" /></flowRegion><flowPara
-         id="flowPara9373" /></flowRoot>    <path
-       id="path3015"
-       transform="matrix(0.79441698,0,0,0.83520879,19.789499,16.17718)"
-       d="m 50.03125,76.238281 0,30.749999 0,5.72461 0,0.004 c 4.926471,-0.42584 9.870483,-0.78221 14.833984,-1.07227 l 0,-0.004 0,-1.65039 0,-4.07226 c -2.869789,0.16664 -5.732397,0.35934 -8.589843,0.57226 l 0,-9.152339 7.46875,0 0,-5.71875 -7.46875,0 0,-9.658203 8.603515,0 0,-5.722657 -14.847656,0 z m 20.839844,0 0,5.722657 5.8125,0 0,29.121092 c 2.070568,-0.0741 4.143963,-0.13463 6.220703,-0.18555 l 0,-28.935542 5.810547,0 0,-5.722657 -17.84375,0 z m 23.902344,0 0,34.499999 c 0.404239,0 0.809062,-0.006 1.214843,-0.006 1.678673,0 3.353299,0.0133 5.027339,0.0273 l 0,-13.423832 7.47071,0 0,-5.716797 -7.47071,0 0,-9.658203 8.60157,0 0,-5.722657 -14.843752,0 z m 20.923832,0 0,29.136719 0,5.72266 0,0.006 c 4.96659,0.18206 9.9146,0.43647 14.8457,0.75586 l 0,-0.008 0,-1.84765 0,-3.875 c -2.86208,-0.18515 -5.72868,-0.34552 -8.60156,-0.48438 l 0,-29.406249 -6.24414,0 z m 32.86914,0 6.42187,18.222657 -7.5918,18.748042 c 2.02737,0.19595 4.05108,0.40591 6.07227,0.625 l 4.46289,-11.01757 4.24024,12.0332 c 2.17703,0.27309 4.35217,0.55809 6.52148,0.85742 l -7.43555,-21.101561 7.4375,-18.367188 -6.29883,0 -0.0644,0.08984 -4.01758,9.921875 -3.52734,-10.011719 -6.2207,0 z m -125.396488,0.002 0,39.478519 0.03711,0 c 1.971823,-0.27309 3.948198,-0.53325 5.927735,-0.7832 l 0,-21.769537 7.361328,20.890627 c 2.26343,-0.25458 4.531999,-0.49349 6.804687,-0.71875 l 0,-37.097659 -5.964843,0 0,22.546875 -7.945313,-22.546875 -0.255859,0 -5.964844,0 z m 113.302738,0 0,36.023439 c 2.0752,0.15892 4.14972,0.33315 6.21875,0.51367 l 0,-36.537109 -6.21875,0 z"
-       style="display:inline;fill:#f44336;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
-       clip-path="url(#clipPath9879)"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="C:\Users\Simon\Documents\Material Design Icon Pack\PNG\netflix.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-  </g>
-  <g
-     style="display:inline"
-     inkscape:label="Square 1"
-     id="layer5"
-     inkscape:groupmode="layer">
-    <rect
-       ry="10.897427"
-       y="20.500031"
-       x="20.500031"
-       height="150.99994"
-       width="150.99994"
-       id="rect7724"
-       style="display:inline;opacity:0.1;fill:url(#radialGradient7770);fill-opacity:1;stroke:url(#radialGradient7778);stroke-width:1.00005436;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" xmlns:svg="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:export-ydpi="90" inkscape:export-xdpi="90" inkscape:export-filename="C:\Users\Simon\Documents\Material Design Icon Pack\PNG\netflix.png" sodipodi:docname="netflix.svg" inkscape:version="0.91 r13725"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-443 865 192 192"
+	 style="enable-background:new -443 865 192 192;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:1.0001;stroke-linejoin:round;}
+	.st1{filter:url(#filter4827);}
+	.st2{fill:#CCCCCC;}
+	.st3{fill:none;stroke:#CCCCCC;stroke-width:0.9614;stroke-linejoin:round;}
+	.st4{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:0.9936;stroke-linejoin:round;}
+	.st5{clip-path:url(#SVGID_2_);fill:#F44336;}
+	
+		.st6{opacity:0.1;fill:url(#rect7724_1_);stroke:url(#rect7724_2_);stroke-width:1.0001;stroke-linejoin:round;enable-background:new    ;}
+</style>
+<filter  inkscape:label="Drop Shadow" style="color-interpolation-filters:sRGB;" id="filter4827">
+	<feFlood  result="flood" flood-color="rgb(0,0,0)" flood-opacity="0.29999999999999999" id="feFlood4829"></feFlood>
+	<feComposite  operator="in" in2="SourceGraphic" in="flood" result="composite1" id="feComposite4831"></feComposite>
+	<feGaussianBlur  in="composite1" stdDeviation="3" result="blur" id="feGaussianBlur4833"></feGaussianBlur>
+	<feOffset  dy="3" dx="4.57967e-015" result="offset" id="feOffset4835"></feOffset>
+	<feComposite  operator="over" in2="offset" in="SourceGraphic" result="composite2" id="feComposite4837"></feComposite>
+</filter>
+<sodipodi:namedview  showgrid="false" showguides="true" inkscape:cy="84.922918" inkscape:cx="101.34301" borderopacity="1.0" bordercolor="#666666" pagecolor="#e4e4e4" id="base" inkscape:zoom="3.75" inkscape:snap-global="false" inkscape:window-maximized="1" inkscape:window-y="-8" inkscape:window-x="-8" inkscape:window-height="1017" inkscape:window-width="1920" inkscape:guide-bbox="true" inkscape:pageshadow="2" inkscape:current-layer="layer4" inkscape:pageopacity="0" inkscape:document-units="px">
+	<inkscape:grid  type="xygrid" empspacing="5" enabled="true" visible="true" id="grid2985" snapvisiblegridlinesonly="true">
+		</inkscape:grid>
+	<sodipodi:guide  id="guide3002" orientation="1,0" position="8,58.524064"></sodipodi:guide>
+	<sodipodi:guide  id="guide3004" orientation="1,0" position="20,69.304813"></sodipodi:guide>
+	<sodipodi:guide  id="guide3006" orientation="1,0" position="32,62.631016"></sodipodi:guide>
+	<sodipodi:guide  id="guide3008" orientation="1,0" position="68,53.390374"></sodipodi:guide>
+	<sodipodi:guide  id="guide3010" orientation="0,1" position="119.61497,8"></sodipodi:guide>
+	<sodipodi:guide  id="guide3012" orientation="0,1" position="155.5508,20"></sodipodi:guide>
+	<sodipodi:guide  id="guide3014" orientation="0,1" position="132.96257,32"></sodipodi:guide>
+	<sodipodi:guide  id="guide3016" orientation="0,1" position="130.90909,68"></sodipodi:guide>
+	<sodipodi:guide  id="guide3018" orientation="0,1" position="137.06952,184"></sodipodi:guide>
+	<sodipodi:guide  id="guide3020" orientation="1,0" position="184,145.79679"></sodipodi:guide>
+	<sodipodi:guide  id="guide3022" orientation="0,1" position="91.379679,172"></sodipodi:guide>
+	<sodipodi:guide  id="guide3024" orientation="1,0" position="172.15693,140.10142"></sodipodi:guide>
+	<sodipodi:guide  id="guide3026" orientation="0,1" position="149.39037,160"></sodipodi:guide>
+	<sodipodi:guide  id="guide3028" orientation="1,0" position="160,88.299465"></sodipodi:guide>
+	<sodipodi:guide  id="guide3030" orientation="0,1" position="128.34225,124"></sodipodi:guide>
+	<sodipodi:guide  id="guide3032" orientation="1,0" position="124,92.919786"></sodipodi:guide>
+</sodipodi:namedview>
+<g id="layer4" inkscape:label="Square" inkscape:groupmode="layer">
+	<path id="rect7755" class="st0" d="M-411.6,885.5h129.2c6,0,10.9,4.9,10.9,10.9v129.2c0,6-4.9,10.9-10.9,10.9h-129.2
+		c-6,0-10.9-4.9-10.9-10.9V896.4C-422.5,890.4-417.6,885.5-411.6,885.5z"/>
+	<g id="rect7757" class="st1">
+		<path class="st2" d="M-412.5,897h130.9c5.6,0,10.1,4.5,10.1,10.1v119.3c0,5.6-4.5,10.1-10.1,10.1h-130.9
+			c-5.6,0-10.1-4.5-10.1-10.1V907.1C-422.5,901.6-418,897-412.5,897z"/>
+		<path class="st3" d="M-412.5,897h130.9c5.6,0,10.1,4.5,10.1,10.1v119.3c0,5.6-4.5,10.1-10.1,10.1h-130.9
+			c-5.6,0-10.1-4.5-10.1-10.1V907.1C-422.5,901.6-418,897-412.5,897z"/>
+	</g>
+	<path id="rect3811" class="st4" d="M-411.7,886.5h129.5c5.9,0,10.8,4.8,10.8,10.8v127.5c0,5.9-4.8,10.8-10.8,10.8h-129.5
+		c-5.9,0-10.8-4.8-10.8-10.8V897.2C-422.5,891.3-417.7,886.5-411.7,886.5z"/>
+	<g id="flowRoot9367">
+	</g>
+	<g>
+		<defs>
+			<path id="SVGID_1_" d="M-413.1,908.3h132.4c1.8,0,3.3,1.6,3.3,3.5v99.1c0,1.9-1.5,3.5-3.3,3.5h-132.4c-1.8,0-3.3-1.6-3.3-3.5
+				v-99.1C-416.5,909.9-415,908.3-413.1,908.3z"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		
+			<path id="path3015" inkscape:connector-curvature="0" inkscape:export-ydpi="90" inkscape:export-xdpi="90" inkscape:export-filename="C:\Users\Simon\Documents\Material Design Icon Pack\PNG\netflix.png" class="st5" d="
+			M-383.5,944.9v25.7v4.8v0c3.9-0.4,7.8-0.7,11.8-0.9v0V973v-3.4c-2.3,0.1-4.6,0.3-6.8,0.5v-7.6h5.9v-4.8h-5.9v-8.1h6.8v-4.8H-383.5
+			z M-366.9,944.9v4.8h4.6V974c1.6-0.1,3.3-0.1,4.9-0.2v-24.2h4.6v-4.8C-352.7,944.9-366.9,944.9-366.9,944.9z M-347.9,944.9v28.8
+			c0.3,0,0.6,0,1,0c1.3,0,2.7,0,4,0v-11.2h5.9v-4.8h-5.9v-8.1h6.8v-4.8L-347.9,944.9L-347.9,944.9z M-331.3,944.9v24.3v4.8v0
+			c3.9,0.2,7.9,0.4,11.8,0.6v0v-1.5v-3.2c-2.3-0.2-4.6-0.3-6.8-0.4v-24.6L-331.3,944.9L-331.3,944.9z M-305.2,944.9l5.1,15.2
+			l-6,15.7c1.6,0.2,3.2,0.3,4.8,0.5l3.5-9.2l3.4,10.1c1.7,0.2,3.5,0.5,5.2,0.7l-5.9-17.6l5.9-15.3h-5l-0.1,0.1l-3.2,8.3l-2.8-8.4
+			H-305.2L-305.2,944.9z M-404.8,944.9v33h0c1.6-0.2,3.1-0.4,4.7-0.7V959l5.8,17.4c1.8-0.2,3.6-0.4,5.4-0.6v-31h-4.7v18.8l-6.3-18.8
+			h-0.2L-404.8,944.9L-404.8,944.9z M-314.8,944.9v30.1c1.6,0.1,3.3,0.3,4.9,0.4v-30.5H-314.8z"/>
+	</g>
+</g>
+<g id="layer5" inkscape:label="Square 1" inkscape:groupmode="layer">
+	
+		<radialGradient id="rect7724_1_" cx="-433.0806" cy="2122.4934" r="76" gradientTransform="matrix(2.534750e-003 1.9948 2.0024 -2.544370e-003 -4671.8779 1754.5006)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	</radialGradient>
+	
+		<radialGradient id="rect7724_2_" cx="-433.0805" cy="2122.4934" r="76" gradientTransform="matrix(2.534720e-003 1.9948 2.0024 -2.544350e-003 -4671.8774 1754.5005)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	</radialGradient>
+	<path id="rect7724" class="st6" d="M-411.6,885.5h129.2c6,0,10.9,4.9,10.9,10.9v129.2c0,6-4.9,10.9-10.9,10.9h-129.2
+		c-6,0-10.9-4.9-10.9-10.9V896.4C-422.5,890.4-417.6,885.5-411.6,885.5z"/>
+</g>
 </svg>
