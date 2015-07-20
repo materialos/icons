@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.6516504"
-     inkscape:cx="120.69807"
-     inkscape:cy="107.79872"
+     inkscape:zoom="3.75"
+     inkscape:cx="208.58317"
+     inkscape:cy="60.561443"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
      showgrid="true"
@@ -248,7 +248,11 @@
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Drop Shadow"
-       id="filter6425">
+       id="filter6425"
+       y="-0.10000000000000001"
+       height="1.3500000000000001"
+       width="1.3"
+       x="-0.16000000000000003">
       <feFlood
          flood-opacity="0.2"
          flood-color="rgb(38,50,56)"
@@ -444,7 +448,8 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Square 1"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <rect
        style="display:inline;opacity:0.1;fill:url(#radialGradient7770);fill-opacity:1;stroke:url(#radialGradient7778);stroke-width:1.00005436;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect7724"
