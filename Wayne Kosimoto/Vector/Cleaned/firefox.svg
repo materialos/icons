@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="192px" height="192px" viewBox="0 0 192 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>Firefox</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.168 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.084 0" in="shadowBlurOuter2" type="matrix" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <circle id="path-2" cx="88" cy="88" r="88"></circle>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="0" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.698039216   0 0 0 0 0.133333333   0 0 0 0 0  0 0 0 0.14 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner2"></feOffset>
+            <feGaussianBlur stdDeviation="0" in="shadowOffsetInner2" result="shadowBlurInner2"></feGaussianBlur>
+            <feComposite in="shadowBlurInner2" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner2"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.14 0" in="shadowInnerInner2" type="matrix" result="shadowMatrixInner2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <circle id="path-5" cx="88" cy="88" r="88"></circle>
+        <radialGradient cx="0%" cy="0%" fx="0%" fy="0%" r="141.421356%" id="radialGradient-7">
+            <stop stop-color="#FFFFFF" stop-opacity="0.2" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="FireFox" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Firefox" sketch:type="MSArtboardGroup">
+            <g id="FireFox" sketch:type="MSLayerGroup" transform="translate(0.000000, -1.000000)">
+                <g id="Oval-3-+-Rectangle-15" transform="translate(8.000000, 9.000000)">
+                    <use id="Mask" fill="#0060B2" filter="url(#filter-1)" sketch:type="MSShapeGroup" xlink:href="#path-2"></use>
+                    <path d="M76.9690141,175.73 C33.4517746,170.34 -0.247887324,133.38 -0.247887324,88.5 C-0.247887324,81.735 0.57943662,75.135 2.06861972,68.81 L54.9070423,121.5 L54.9070423,132.5 C54.9070423,144.655 64.7797746,154.5 76.9690141,154.5 L76.9690141,175.73 Z M153.027662,147.845 C150.214761,138.935 141.941521,132.5 132.123944,132.5 L121.092958,132.5 L121.092958,99.5 C121.092958,93.45 116.129014,88.5 110.061972,88.5 L43.8760563,88.5 L43.8760563,66.5 L65.9380282,66.5 C72.0050704,66.5 76.9690141,61.55 76.9690141,55.5 L76.9690141,33.5 L99.0309859,33.5 C111.220225,33.5 121.092958,23.655 121.092958,11.5 L121.092958,6.935 C153.413746,19.97 176.247887,51.54 176.247887,88.5 C176.247887,111.38 167.423099,132.17 153.027662,147.845 Z" id="Shape" fill="#157EF4" sketch:type="MSShapeGroup" mask="url(#mask-3)"></path>
+                    <path d="M181.312093,86.8657653 C181.312093,86.8657653 177.893965,58.5897535 173.704704,48.0187982 C167.284188,31.8210168 164.427645,31.9512133 164.409205,31.9745819 C168.709107,42.8560058 167.929593,48.7014953 167.929593,48.7014953 C167.929593,48.7014953 148.351212,16.5830174 148.351212,16.5830174 C148.351212,16.5830174 107.256518,-0.206746581 107.305168,-0.148437519 C107.395692,-0.0382712395 140.145055,27.3759732 144.501953,33.3366366 C144.501953,33.3366366 142.447017,30.3571395 132.061874,33.3366366 C131.592489,33.4701715 150.647843,34.6102267 158.555304,73.0949803 C158.555304,73.0949803 149.745654,63.8560349 144.501953,62.3604442 C147.950256,72.8062105 151.635228,93.0584455 148.35121,102.909982 C147.928763,104.176894 147.496259,97.4333822 141.027128,94.5289984 C143.099127,109.312979 140.903076,132.761705 130.601752,139.221455 C129.798769,139.72388 137.059148,116.073183 132.061875,125.216984 C102.22743,170.764064 66.7570134,143.644798 52.3703639,133.978542 C63.9172343,136.796128 76.1832696,134.766397 83.2843938,129.934104 C90.4508965,125.056742 94.6904487,121.491361 98.4974961,122.3343 C102.302867,123.180577 104.83587,119.378171 101.880421,116.004746 C98.921619,112.624644 91.7366761,107.9793 82.0170543,110.511455 C75.1623573,112.299153 66.6681656,119.850551 53.7014056,112.20401 C42.6390075,105.677492 42.7144444,100.377826 42.7144444,97.001063 C42.7144444,93.6226304 45.7319192,88.4882141 51.2237234,89.3311531 C56.1422074,90.0872943 53.5505318,87.2112868 58.8428474,89.3311531 C60.2845299,89.9086914 58.6986792,82.4390838 56.6467963,77.6535274 C60.598012,69.4428012 73.417251,67.0024512 74.3744611,66.283032 C76.1078327,64.9777285 75.1539754,64.326746 75.7457357,62.3604448 C76.2989395,60.5293477 76.6526546,55.5802111 62.306238,56.9472744 C55.7046736,57.5765576 51.5053544,49.0587012 50.1290506,46.9905796 C50.5749663,44.3582732 51.2907784,41.9529761 52.2597231,39.7496505 C53.2437552,37.7416197 54.3183115,35.9021767 55.3911915,34.5100755 C55.7264665,34.074418 56.0181557,33.6921743 56.2830229,33.3366377 C58.4220773,30.8528889 61.0472805,28.7296842 64.1988653,26.9636854 C65.8433891,26.0389563 45.8107088,26.9052639 36.7968409,38.6045889 C34.3778319,38.9183959 31.0586095,38.2240145 27.3487918,38.2240145 C22.6985278,38.2240145 19.0457069,38.7297779 15.6644587,39.5760552 C15.1229896,39.7112593 14.2495982,39.6378151 13.1817474,39.3840988 C10.2061819,36.3144656 1.78742709,28.9366633 1.40186086,18.9298929 C1.40186086,18.9298929 -10.8390288,28.297365 -9.00675101,53.8359116 C-9.167683,67.9588948 -13.3552675,63.9211338 -15.5094093,71.5860361 C-16.5118815,75.218185 -14.0023483,77.9539809 -14.0023483,78.0608088 C-14.005701,78.115892 -10.9915789,74.8125728 -10.9915789,74.8125728 C-10.9915789,74.8125728 -29.9731721,107.556996 -5.45954168,149.358422 C15.6694878,185.39448 51.1264937,201.320184 87.9195704,198.218836 C94.3551737,197.80154 100.837716,196.846765 107.30517,195.291084 C193.023249,174.654937 183.702604,71.5927129 183.702604,71.5927129 L181.312093,86.8657653 Z" id="Shape" fill="#FF8600" sketch:type="MSShapeGroup" mask="url(#mask-3)"></path>
+                    <g id="Mask-Copy" filter="url(#filter-4)"></g>
+                    <rect id="Finish-Lighting-+-Tints" fill="url(#radialGradient-7)" sketch:type="MSShapeGroup" mask="url(#mask-6)" x="-8" y="-8" width="192" height="192"></rect>
+                </g>
+                <g id="Mask-+-Finish-Lighting-+-Tints-Copy" transform="translate(2.000000, 0.000000)"></g>
+            </g>
+        </g>
+    </g>
+</svg>
