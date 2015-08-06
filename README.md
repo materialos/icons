@@ -5,18 +5,18 @@
 
 [materialos/Icons](https://github.com/materialos/Icons) is a place for all designers to place their Material Design or Material Inspired icons for others to use. We will make the icons availible in as many formats as possible including all available vectors, showcases, and icon packs found in our [other repos](https://github.com/materialos/).
 
-## Wiki
+## Wiki:
 
 We have created a GitHub Wiki for distributing some information about Material Design. We also include multiple `.md` files for others to contribute to it. Here are the highlights. 
 * [Guidelines for Iconography](https://github.com/materialos/Icons/wiki/Guidelines) - Expansion of the Material Design spec for recomendations for certain optional portions of the icon design.
 * [Contributing](https://github.com/materialos/Icons/wiki/Contributing) - Some things which would be appreciated and how to help.
 * [MaterialUp Submissions](https://github.com/materialos/Icons/wiki/MaterialUp-Submissions) - Our posts to [MaterialUp](http://materialup.com)
 
-## Suggestions and Contributing
+## Suggestions and Contributing:
 
 If your interested in helping out or would likee to reqest an icon, see our [wiki page on contributing](https://github.com/materialos/Icons/wiki/Contributing) and then [raise an issue](https://github.com/materialos/Icons/issues/new).
 
-## Elsewhere on the Web
+## Elsewhere on the Web:
 * [Google+ Community](http://goo.gl/yaGBvL)
 * [Twittter](https://twitter.com/materialos)
 * [MaterialUp](http://www.materialup.com/materialos)
