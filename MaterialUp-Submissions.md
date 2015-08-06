@@ -31,7 +31,7 @@ Both versions are included in the Illustrator file for scaling.
 
 Date Submitted: 7/18/2015
 
-Date Showcased: N/A
+Date Showcased: 7/21/2015
 
 Submission Number: 2
 

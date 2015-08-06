@@ -1,28 +1,36 @@
 ## File:
 **Editor:** Adobe Illustrator or SVG editor
+* Raster editors are welcomed, but frowned upon for scaling.
 
-**Dimensions:** `48x48` pixels
+**Dimensions:** `192x192` pixels
 * Please, no inches or non-square rectangles.
 
 **Vector Save:** .AI or .SVG
+* PSDs don't scale well
+* Proprietary formats we can't open won't be used.
 
-**Export:** 48x48 SVG (double check SVGs created in Adobe Illustrator)
+**Export:** PNG-24 with transparency (PNG 32)
 
-**Pixel Perfection:** Please never use "Align Objects to Pixel Grid". It ruins absolutely everything. You should instead manually check that all dimensions and positions are all whole numbers.
+**Pixel Perfection:** Please never use "Align Objects to Pixel Grid". It ruins long shadows and edges as well as positioning. You should instead manually check that all dimensions and positions are all whole numbers.
 
 ## Objects:
 **Keyline Shapes:**
-* Rectangles: `38x38` (Square), `44x32` (Landscape), `32x44` (Portrait)
-  * `3px` Radius rounded corners
-* Circle: `44x44`
+* Rectangles: `152x152` (Square), `176x128` (Landscape), `128x176` (Portrait)
+  * `12px` Radius rounded corners
+* Circle: `176x176`
 
-**Maximum Area:** `44x44`
+**Maximum Area:** `176x176`
 
 **Raised Objects:** *Need:* Long shadows, tints, shades, and drop shadows [*(See Raised Objects)*](#raised-objects)
 
 **Finish:** *Need:* On very top layer, special radial gradient, fills the icon's silhouette [*(See Finish)*](#finish)
 
 **Whole Icon:** *Need:* Tint, shade, drop shadow, raised object shadows clipped off if applicable [*(See Whole Icon)*](#whole-icon)
+
+## Crease:
+* Composed of two lines that are each the width of the object and 1px tall
+* Darker line should be the top, where the top down light wouldn't have as much of a direct effect.
+* 5% opacity shade color for top, 5% white for bottom (Unless the object it too light). 
 
 ## Colors:
 * Material Design Palette colors as much as possible. (some greens and special colors don't apply)
@@ -39,8 +47,13 @@
 * Type: `Linear`
 * Starting Node: `20% Opacity` *Color:* `Shade Color`
 * Gradient Slider Midpoint: `Position 50%`
-* End Node: `5% Opacity` *Color:* `Shade Color`
 * Angle: `-45 degrees`
+
+Type One:
+* End Node: `5% Opacity` *Color:* `Shade Color`
+
+Type Two:
+* End Node: `0% Opacity` *Color:* `Shade Color`
 
 **Shape:** Created by using a `Blend` *from* a copy of the object at its original location *to* a copy of the object transformed -45 degrees with the outside anchors completely off the artboard (canvas)
 * Blend: Use `Specified Steps` and pick a higher number for higher accuracy (for curvature)
@@ -77,44 +90,65 @@ Metrics:
 * Mode: `Normal`
 
 Type One (-45 Degree):
-* `1px` offset for both X and Y (For the -45 degree lighting)
+* `4px` offset for both X and Y (For the -45 degree lighting)
 
 Type Two (Top Down):
-* `0px` X and `1px` Y offset
-* `1px` blur
+* `0px` X and `4px` Y offset
+* `4px` blur
 * Colors: `Shade color`
 
 * Clip off the shadows if they extend past the icon's perimeter
 * Use long and drop shadow [*(See Long Shadow)*](#long-shadow)
 
-## Finish: Radial gradient overlay on the top layer of the icon
+## Finish:
+Radial gradient overlay on the top layer of the icon
+
 **Gradient:**
-** Mode: `Radial`
+* Mode: `Radial`
 * Starting Node: `10% Opacity` *Color:* `White`
 * Gradient Slider Midpoint: `Position 33%` (Spec Material) **or**
 * Gradient Slider Midpoint: `Position 50%` (In Google's Icons)
 * End Node: `0% Opacity` *Color:* `White`
 * Angle: `-45 degrees`
-* Shouldn't create white outside of the icon 
+* Shouldn't create white outside of the icon
+
+Type One:
+* Radial Circle: Covers the entire icon perimeter (not including drop shadows), extends from top left corner of icon silhouette
+* Starting Point: Center of circle, top left corner of icon silhouette
+
+Type Two:
 * Radial Circle: Covers the entire icon perimeter (not including drop shadows)
 * Starting Point: Moved over at far as it can go towards the -45 indicator handle
 
 ## Whole Icon:
-Shouldn't extend past the `2px margin` on all for side of the icon for a max area of `44x44` pixels
+Shouldn't extend past the `8px margin` on all for side of the icon for a max area of `176x176` pixels
 
-**Drop Shadow:** Add two fills to the appearance of the icon layer or group
+**Drop Shadow:** 
+
+Type One:
+
+Single shade added to icon layer or group
+* Shadow:
+  * Mode: `Normal`
+  * `0px` offset for X and a `4px` for Y
+  * `4px` blur
+  * Color: `black` (#000000, not #202020)
+
+Type Two:
+
+Add two fills to the appearance of the icon layer or group
 * Stroke Color: No stroke
 * Fill Color: `White`
 * Mode: `Multiply`
 * Top Shadow:
   * Mode: `Multiply`
   * `0px` offset for both X and Y
-  * `.5px` blur
+  * `2px` blur
   * Color: `black` (#000000, not #202020)
 * Bottom Shadow:
   * Mode: `Multiply`
-  * `0px` offset for X and a `1px` for Y
-  * `.5px` blur
+  * `0px` offset for X and a `4px` for Y
+  * `2px` blur
   * Color: `black` (#000000, not #202020)
 
 * Make sure the objects making the outside perimeter of the icon have a tint and shade that are on the object
