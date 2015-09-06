@@ -5853,9 +5853,6 @@ Link: https://play.google.com/store/apps/details?id=com.polarbearsoftware.neoden
 - [ ] Name: Adobe Flash Player 11.1
 * Code: com.adobe.flashplayer/com.adobe.flashplayer.SettingsManager
 * Link: https://play.google.com/store/apps/details?id=com.adobe.flashplayer
-- [ ] Name: Adobe Flash Player 11.1
-* Code: com.adobe.flashplayer/com.adobe.flashplayer.SettingsManager
-* Link: https://play.google.com/store/apps/details?id=com.adobe.flashplayer
 - [ ] Name: AirDroid
 * Code: com.sand.airdroid/com.sand.airdroid.ui.splash.SplashActivity_
 * Link: https://play.google.com/store/apps/details?id=com.sand.airdroid
