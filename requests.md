@@ -6855,3 +6855,30 @@ Link: https://play.google.com/store/apps/details?id=com.sec.android.mimage.photo
 - [ ] Name: Hay Day
 * Code: com.supercell.hayday/com.supercell.hayday.GameApp
 * Link: https://play.google.com/store/apps/details?id=com.supercell.hayday
+- [ ] Name: Calendar
+* Code: com.boxer.calendar/com.android.calendar.AllInOneActivity
+* Link: https://play.google.com/store/apps/details?id=com.boxer.calendar
+- [ ] Name: EvolveSMS
+* Code: com.klinker.android.evolve_sms/com.klinker.android.evolve_sms.ui.MainActivityDark
+* Link: https://play.google.com/store/apps/details?id=com.klinker.android.evolve_sms
+- [ ] Name: Fallout Shelter
+* Code: com.bethsoft.falloutshelter/com.bhvr.Prime31MainActivityWithMemoryWarning
+* Link: https://play.google.com/store/apps/details?id=com.bethsoft.falloutshelter
+- [ ] Name: Gallery
+* Code: com.cyngn.gallerynext/com.cyngn.gallerynext.app.GalleryActivity
+* Link: https://play.google.com/store/apps/details?id=com.cyngn.gallerynext
+- [ ] Name: Hangouts Dialer
+* Code: com.google.android.apps.hangoutsdialer/com.google.android.apps.hangoutsdialer.app.LaunchActivity
+* Link: https://play.google.com/store/apps/details?id=com.google.android.apps.hangoutsdialer
+- [ ] Name: Mortal Kombat X
+* Code: com.wb.goog.mkx/com.wb.goog.mkx.brawler2015.UE3JavaApp
+* Link: https://play.google.com/store/apps/details?id=com.wb.goog.mkx
+- [ ] Name: Solid Explorer
+* Code: pl.solidexplorer2/pl.solidexplorer.SolidExplorer
+* Link: https://play.google.com/store/apps/details?id=pl.solidexplorer2
+- [ ] Name: Unkilled
+* Code: com.madfingergames.unkilled/com.madfingergames.unityplayer.MFUnityPlayerNativeActivity
+* Link: https://play.google.com/store/apps/details?id=com.madfingergames.unkilled
+- [ ] Name: Zoopex for Zooper Widget
+* Code: com.thedevlaughlin.zwskin.zoopex/com.thedevlaughlin.zwskin.zoopex.MainActivity
+* Link: https://play.google.com/store/apps/details?id=com.thedevlaughlin.zwskin.zoopex
