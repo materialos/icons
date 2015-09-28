@@ -54,7 +54,7 @@
                     <use xlink:href="#path-2"></use>
                 </mask>
                 <use id="Base" fill="#FFF8E1" filter="url(#filter-1)" sketch:type="MSShapeGroup" xlink:href="#path-2"></use>
-                <text id="aa" sketch:type="MSTextLayer" font-family="Roboto" font-size="135" font-style="condensed" font-weight="260" fill="#212121">
+                <text id="aa" sketch:type="MSTextLayer" font-family="Roboto" font-size="135" font-style="thin" font-weight="260" fill="#212121">
                     <tspan x="5" y="141">aa</tspan>
                 </text>
                 <path d="M117.5,71 L151.40612,104.90612 L151.40612,71.4975315 L117.5,71 Z" id="longshadow" fill="url(#linearGradient-4)" sketch:type="MSShapeGroup"></path>
