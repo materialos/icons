@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="192px" height="192px" viewBox="0 0 192 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>MD App Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.243137255   0 0 0 0 0.152941176   0 0 0 0 0.137254902  0 0 0 0.139334239 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="0" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.14 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetInner2"></feOffset>
+            <feGaussianBlur stdDeviation="0" in="shadowOffsetInner2" result="shadowBlurInner2"></feGaussianBlur>
+            <feComposite in="shadowBlurInner2" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.243137255   0 0 0 0 0.152941176   0 0 0 0 0.137254902  0 0 0 0.14 0" in="shadowInnerInner2" type="matrix" result="shadowMatrixInner2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path id="path-2" d="M152,11.9906395 C152,5.36839215 146.634886,0 140.009361,0 L11.9906395,0 C5.36839215,0 0,5.36511358 0,11.9906395 L0,140.009361 C0,146.631608 5.36511358,152 11.9906395,152 L140.009361,152 C146.631608,152 152,146.634886 152,140.009361 L152,11.9906395 Z"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.243137255   0 0 0 0 0.152941176   0 0 0 0 0.137254902  0 0 0 0.141533628 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="0" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.243137255   0 0 0 0 0.152941176   0 0 0 0 0.137254902  0 0 0 0.142028986 0" in="shadowBlurOuter2" type="matrix" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.243137255   0 0 0 0 0.152941176   0 0 0 0 0.137254902  0 0 0 0.143396173 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="0" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.243137255   0 0 0 0 0.152941176   0 0 0 0 0.137254902  0 0 0 0.140622169 0" in="shadowBlurOuter2" type="matrix" result="shadowMatrixOuter2"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="0" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.279025136 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+            </feMerge>
+        </filter>
+        <radialGradient cx="0%" cy="0%" fx="0%" fy="0%" r="141.421356%" id="radialGradient-6">
+            <stop stop-color="#FFFFFF" stop-opacity="0.102383379" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.0691657525" offset="32.4443543%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="MD-App-Icon" sketch:type="MSArtboardGroup">
+            <g id="tunable-icon" sketch:type="MSLayerGroup" transform="translate(20.000000, 20.000000)">
+                <mask id="mask-3" sketch:name="Base" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="Base" fill="#E91E63" filter="url(#filter-1)" sketch:type="MSShapeGroup" xlink:href="#path-2"></use>
+                <path d="M68.9703759,92.0079917 C68.9802426,92.0053246 68.9901173,92.0026607 69,92 C68.9999992,92 67.9999992,81 67.9999992,81 C46,81 34.0000004,113 60.9999997,124 C86.4999985,130.5 92.9999989,107.5 92,102 C91.9999991,102 87,44 87,44 C86.9999989,43 87.4999989,42 89,42 C88.9999991,42 109.499999,41 109.499999,41 L110,49 C110,49 109.999999,50 109,50 C108.999999,50 93,51 93,51 L94,63 L110.999999,62 C117.999999,61.5 122.499999,59.5 122,51 C121.999999,51 120,29 120,29 L85,31 C78.4999989,31.5 75.5000008,33.5 76.0000008,41 L80.7946906,101.413102 C80.9295439,102.089879 81,102.78737 81,103.5 C81,103.635368 80.9974577,103.770189 80.9924148,103.904426 L81,104 C80.995569,104.011816 80.9911331,104.023619 80.9866924,104.03541 C80.6826939,110.138125 75.2084946,115 68.5,115 C61.5964406,115 56,109.851275 56,103.5 C56,97.1487254 61.5964406,92 68.5,92 C68.6574892,92 68.8142981,92.0026795 68.9703759,92.0079917 Z" id="tunable-note" fill="#FAFAFA" filter="url(#filter-4)" sketch:type="MSShapeGroup"></path>
+                <path d="M64,41.7 L36,41.7 L36,34 L64,34 L64,41.7 Z M64,56 L36,56 L36,48.3 L64,48.3 L64,56 Z" id="=" fill="#FAFAFA" filter="url(#filter-5)" sketch:type="MSShapeGroup"></path>
+                <path d="M152,11.9903721 C152,5.36827246 146.634886,0 140.009361,0 L11.9906395,0 C5.36839215,0 0,5.36511358 0,11.9906395 L0,140.009361 C0,146.631608 5.36511358,152 11.9906395,152 L140.009361,152 C146.631608,152 152,146.630804 152,139.998833 L152,41.4545455 L152,11.9903721 Z" id="Finish" fill="url(#radialGradient-6)" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
