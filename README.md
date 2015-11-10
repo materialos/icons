@@ -5,6 +5,12 @@
 
 [materialos/Icons](https://github.com/materialos/Icons) is a place for all designers to place their Material Design or Material Inspired icons for others to use. We will make the icons available in as many formats as possible including all available vectors, showcases, and icon packs found in our [other repos](https://github.com/materialos/).
 
+## Google Play Store:
+<a href="https://play.google.com/store/apps/details?id=org.materialos.icons">
+  <img alt="Get it on Google Play"
+       src="https://developer.android.com/images/brand/en_generic_rgb_wo_45.png" />
+</a>
+
 ## Wiki:
 
 We have created a GitHub Wiki for distributing some information about Material Design. We also include multiple `.md` files for others to contribute to it. Here are the highlights. 
