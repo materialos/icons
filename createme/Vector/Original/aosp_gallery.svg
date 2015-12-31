@@ -24,6 +24,18 @@
      id="defs4">
     <linearGradient
        inkscape:collect="always"
+       id="linearGradient4205">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4207" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4209" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
        id="linearGradient4194">
       <stop
          style="stop-color:#ffffff;stop-opacity:1;"
@@ -78,7 +90,7 @@
          id="feComposite5252" />
       <feGaussianBlur
          in="composite1"
-         stdDeviation="4"
+         stdDeviation="2"
          result="blur"
          id="feGaussianBlur5254" />
       <feOffset
@@ -90,8 +102,41 @@
          in="SourceGraphic"
          in2="offset"
          operator="over"
-         result="composite2"
+         result="fbSourceGraphic"
          id="feComposite5258" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4189" />
+      <feFlood
+         id="feFlood4191"
+         flood-opacity="0.2"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite4193"
+         in2="fbSourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4195"
+         in="composite1"
+         stdDeviation="2"
+         result="blur" />
+      <feOffset
+         id="feOffset4197"
+         dx="0"
+         dy="0"
+         result="offset" />
+      <feComposite
+         id="feComposite4199"
+         in2="offset"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
     </filter>
     <clipPath
        clipPathUnits="userSpaceOnUse"
@@ -125,6 +170,16 @@
          x="42.400002"
          y="43.200001" />
     </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4205"
+       id="linearGradient4211"
+       x1="38.25"
+       y1="898.61218"
+       x2="172"
+       y2="1032.3622"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-860.36216)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -133,9 +188,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0000001"
-     inkscape:cx="23.838945"
-     inkscape:cy="63.825984"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="89.32543"
+     inkscape:cy="161.22692"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -293,8 +348,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="background"
-     sodipodi:insensitive="true">
+     inkscape:label="background">
     <path
        style="fill:#424242;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter5248)"
        d="m 32,880.36216 128,0 c 6,0 12,6 12,12 l 0,128.00004 c 0,6 -6,12 -12,12 l -128,0 c -6,0 -12,-6 -12,-12 l 0,-128.00004 c 0,-6 6,-12 12,-12 z"
@@ -308,6 +362,11 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-860.36216)">
+    <path
+       style="fill:url(#linearGradient4211);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.2"
+       d="M 154 38 L 154 154 L 38 154 L 56 172 L 160 172 C 166 172 172 166 172 160 L 172 56 L 154 38 z "
+       id="path4203"
+       transform="translate(0,860.36216)" />
     <path
        style="fill:#ab47bc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 46 46 L 46 146 L 146 146 L 146 46 L 46 46 z "

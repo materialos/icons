@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="-37.181772"
-     inkscape:cy="43.025527"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="-282.02465"
+     inkscape:cy="129.45336"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -232,7 +232,7 @@
       <feGaussianBlur
          id="feGaussianBlur5254"
          result="blur"
-         stdDeviation="4"
+         stdDeviation="2"
          in="composite1" />
       <feOffset
          id="feOffset5256"
@@ -241,10 +241,43 @@
          dx="4.57967e-015" />
       <feComposite
          id="feComposite5258"
-         result="composite2"
+         result="fbSourceGraphic"
          operator="over"
          in2="offset"
          in="SourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4255" />
+      <feFlood
+         id="feFlood4257"
+         flood-opacity="0.2"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite4259"
+         in2="fbSourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4261"
+         in="composite1"
+         stdDeviation="2"
+         result="blur" />
+      <feOffset
+         id="feOffset4263"
+         dx="0"
+         dy="0"
+         result="offset" />
+      <feComposite
+         id="feComposite4265"
+         in2="offset"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
     </filter>
     <radialGradient
        gradientTransform="matrix(-1.011548e-8,2,-2.0000322,-1.1936892e-8,21.994544,-8.9943347)"
@@ -628,10 +661,9 @@
          d="M 96 8 A 88 88 0 0 0 8 96 A 88 88 0 0 0 19.972656 140.09766 L 8 184 L 51.869141 172.03516 A 88 88 0 0 0 96 184 A 88 88 0 0 0 184 96 A 88 88 0 0 0 96 8 z "
          id="path4184" />
       <path
-         id="path28816"
-         d="m 96,23 a 73,73 0 0 0 -73,73 73,73 0 0 0 9.931862,36.58102 L 23,169 59.391447,159.07462 A 73,73 0 0 0 96,169 73,73 0 0 0 169,96 73,73 0 0 0 96,23 Z"
          style="display:inline;opacity:1;fill:#00c853;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.94899988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
+         d="M 96 23 A 73 73 0 0 0 23 96 A 73 73 0 0 0 35.453125 136.67188 L 28 164 L 55.283203 156.55859 A 73 73 0 0 0 96 169 A 73 73 0 0 0 169 96 A 73 73 0 0 0 96 23 z "
+         id="path4257" />
     </g>
   </g>
   <g
