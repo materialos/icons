@@ -28,10 +28,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="495.55485"
+     inkscape:cx="277.05485"
      inkscape:cy="183.12907"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="px"
      showguides="false"
@@ -243,7 +243,7 @@
       <feGaussianBlur
          id="feGaussianBlur5254"
          result="blur"
-         stdDeviation="4"
+         stdDeviation="2"
          in="composite1" />
       <feOffset
          id="feOffset5256"
@@ -252,10 +252,43 @@
          dx="4.57967e-015" />
       <feComposite
          id="feComposite5258"
-         result="composite2"
+         result="fbSourceGraphic"
          operator="over"
          in2="offset"
          in="SourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4199" />
+      <feFlood
+         id="feFlood4201"
+         flood-opacity="0.2"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite4203"
+         in2="fbSourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4205"
+         in="composite1"
+         stdDeviation="2"
+         result="blur" />
+      <feOffset
+         id="feOffset4207"
+         dx="0"
+         dy="0"
+         result="offset" />
+      <feComposite
+         id="feComposite4209"
+         in2="offset"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
     </filter>
     <linearGradient
        inkscape:collect="always"
@@ -404,7 +437,8 @@
   <g
      inkscape:label="finish"
      id="layer3"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <path
        inkscape:connector-curvature="0"
        id="path4180"

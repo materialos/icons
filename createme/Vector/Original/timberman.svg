@@ -78,7 +78,7 @@
          id="feComposite5252" />
       <feGaussianBlur
          in="composite1"
-         stdDeviation="4"
+         stdDeviation="2"
          result="blur"
          id="feGaussianBlur5254" />
       <feOffset
@@ -90,8 +90,41 @@
          in="SourceGraphic"
          in2="offset"
          operator="over"
-         result="composite2"
+         result="fbSourceGraphic"
          id="feComposite5258" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4199" />
+      <feFlood
+         id="feFlood4201"
+         flood-opacity="0.2"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite4203"
+         in2="fbSourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4205"
+         in="composite1"
+         stdDeviation="2"
+         result="blur" />
+      <feOffset
+         id="feOffset4207"
+         dx="0"
+         dy="0"
+         result="offset" />
+      <feComposite
+         id="feComposite4209"
+         in2="offset"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -102,7 +135,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="203.1664"
+     inkscape:cx="93.9164"
      inkscape:cy="132.92464"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
@@ -254,7 +287,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>

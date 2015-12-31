@@ -78,7 +78,7 @@
          id="feComposite5252" />
       <feGaussianBlur
          in="composite1"
-         stdDeviation="4"
+         stdDeviation="2"
          result="blur"
          id="feGaussianBlur5254" />
       <feOffset
@@ -90,8 +90,41 @@
          in="SourceGraphic"
          in2="offset"
          operator="over"
-         result="composite2"
+         result="fbSourceGraphic"
          id="feComposite5258" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4207" />
+      <feFlood
+         id="feFlood4209"
+         flood-opacity="0.2"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite4211"
+         in2="fbSourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4213"
+         in="composite1"
+         stdDeviation="2"
+         result="blur" />
+      <feOffset
+         id="feOffset4215"
+         dx="0"
+         dy="0"
+         result="offset" />
+      <feComposite
+         id="feComposite4217"
+         in2="offset"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -102,10 +135,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="405.11405"
+     inkscape:cx="186.61405"
      inkscape:cy="-28.550491"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="px"
      showguides="false"
@@ -261,8 +294,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="background"
-     sodipodi:insensitive="true">
+     inkscape:label="background">
     <path
        style="fill:#212121;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter5248)"
        d="m 32,880.36216 128,0 c 6,0 12,6 12,12 l 0,128.00004 c 0,6 -6,12 -12,12 l -128,0 c -6,0 -12,-6 -12,-12 l 0,-128.00004 c 0,-6 6,-12 12,-12 z"

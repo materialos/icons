@@ -78,7 +78,7 @@
          id="feComposite5252" />
       <feGaussianBlur
          in="composite1"
-         stdDeviation="4"
+         stdDeviation="2"
          result="blur"
          id="feGaussianBlur5254" />
       <feOffset
@@ -90,8 +90,41 @@
          in="SourceGraphic"
          in2="offset"
          operator="over"
-         result="composite2"
+         result="fbSourceGraphic"
          id="feComposite5258" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4177" />
+      <feFlood
+         id="feFlood4179"
+         flood-opacity="0.2"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite4181"
+         in2="fbSourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4183"
+         in="composite1"
+         stdDeviation="2"
+         result="blur" />
+      <feOffset
+         id="feOffset4185"
+         dx="0"
+         dy="0"
+         result="offset" />
+      <feComposite
+         id="feComposite4187"
+         in2="offset"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -101,9 +134,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7071068"
-     inkscape:cx="214.98122"
-     inkscape:cy="-114.64956"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="-63.414237"
+     inkscape:cy="14.141163"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
