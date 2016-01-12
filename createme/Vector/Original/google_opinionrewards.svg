@@ -28,7 +28,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="805.98552"
+     inkscape:cx="587.48552"
      inkscape:cy="288.9967"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
@@ -232,7 +232,7 @@
       <feGaussianBlur
          id="feGaussianBlur5254"
          result="blur"
-         stdDeviation="4"
+         stdDeviation="2"
          in="composite1" />
       <feOffset
          id="feOffset5256"
@@ -241,10 +241,43 @@
          dx="4.57967e-015" />
       <feComposite
          id="feComposite5258"
-         result="composite2"
+         result="fbSourceGraphic"
          operator="over"
          in2="offset"
          in="SourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4191" />
+      <feFlood
+         id="feFlood4193"
+         flood-opacity="0.2"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite4195"
+         in2="fbSourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4197"
+         in="composite1"
+         stdDeviation="2"
+         result="blur" />
+      <feOffset
+         id="feOffset4199"
+         dx="0"
+         dy="0"
+         result="offset" />
+      <feComposite
+         id="feComposite4201"
+         in2="offset"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
     </filter>
     <linearGradient
        inkscape:collect="always"
