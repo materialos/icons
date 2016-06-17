@@ -28,7 +28,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="89.680027"
+     inkscape:cx="48.180027"
      inkscape:cy="105.64902"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -264,7 +264,7 @@
     <path
        id="D-2"
        d="m 40,944.36216 0,1 4,0 c 2.200001,0 4,1.8 4,4 l 0,-1 c 0,-2.2 -1.799999,-4 -4,-4 l -4,0 z m 64,0 0,1 8,0 0,-1 -8,0 z m -48,20 c 0,6.6 -5.399999,12 -12,12 l -12,0 0,1 12,0 c 6.600001,0 12,-5.4 12,-12 l 0,-1 z m 8,4 0,1 c 0,4.4 3.6,8 8,8 l 8,0 c 4.400001,0 8,-3.6 8,-8 l 0,-1 c 0,4.4 -3.599999,8 -8,8 l -8,0 c -4.4,0 -8,-3.6 -8,-8 z m 32,0 0,1 c 0,4.4 3.599988,8 8,8 l 8,0 c 4.4,0 8,-3.6 8,-8 l 0,-1 c 0,4.4 -3.6,8 -8,8 l -8,0 c -4.400012,0 -8,-3.6 -8,-8 z"
-       style="opacity:0.2;fill:#212121;fill-opacity:1"
+       style="opacity:0.1;fill:#212121;fill-opacity:1"
        inkscape:connector-curvature="0" />
   </g>
   <g
