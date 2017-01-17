@@ -8,7 +8,7 @@
 ## Google Play Store:
 <a href="https://play.google.com/store/apps/details?id=org.materialos.icons">
   <img alt="Get it on Google Play"
-       src="https://developer.android.com/images/brand/en_generic_rgb_wo_45.png" />
+       src="https://play.google.com/intl/en_us/badges/images/badge_new.png" />
 </a>
 
 ## Wiki:
