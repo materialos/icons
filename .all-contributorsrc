@@ -1,0 +1,23 @@
+{
+  "projectName": "Icons",
+  "projectOwner": "materialos",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "danielhickman",
+      "name": "Daniel Hickman",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/5341898?v=4",
+      "profile": "https://www.danielhickman.com/",
+      "contributions": [
+        "code",
+        "design",
+        "doc",
+        "tool"
+      ]
+    }
+  ]
+}

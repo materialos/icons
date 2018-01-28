@@ -1,0 +1,25 @@
+{
+  "name": "icons",
+  "version": "1.0.0",
+  "private": "true",
+  "description": "![largeshowcase-dark](https://cloud.githubusercontent.com/assets/5341898/9100839/4076791e-3b94-11e5-8dc3-f7e7f9f40549.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "contributors:add": "all-contributors add",
+    "contributors:generate": "all-contributors generate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/materialos/Icons.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/materialos/Icons/issues"
+  },
+  "homepage": "https://github.com/materialos/Icons#readme",
+  "devDependencies": {
+    "all-contributors-cli": "^4.10.1"
+  }
+}

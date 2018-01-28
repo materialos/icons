@@ -1,4 +1,5 @@
 # Icons
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 ![largeshowcase-dark](https://cloud.githubusercontent.com/assets/5341898/9100839/4076791e-3b94-11e5-8dc3-f7e7f9f40549.png)
 
 ## Description:
@@ -27,5 +28,18 @@ If your interested in helping out or would like to request an icon, see our [wik
 * [Twittter](https://twitter.com/materialos)
 * [MaterialUp](http://www.materialup.com/materialos)
 
+
 ## License:
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">Material Design Iconography</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/materialos/Icons" property="cc:attributionName" rel="cc:attributionURL">the MOS Contributors</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+## Contributors
+
+Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+| [<img src="https://avatars2.githubusercontent.com/u/5341898?v=4" width="100px;"/><br /><sub><b>Daniel Hickman</b></sub>](https://www.danielhickman.com/)<br />[💻](https://github.com/materialos/Icons/commits?author=danielhickman "Code") [🎨](#design-danielhickman "Design") [📖](https://github.com/materialos/Icons/commits?author=danielhickman "Documentation") [🔧](#tool-danielhickman "Tools") |
+| :---: |
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind welcome!
