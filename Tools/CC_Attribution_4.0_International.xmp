@@ -7,7 +7,7 @@
     </rdf:Description>
     <rdf:Description rdf:about=''
 		     xmlns:xapRights='http://ns.adobe.com/xap/1.0/rights/'>
-      <xapRights:WebStatement rdf:resource='https://github.com/materialos/Icons'/>
+      <xapRights:WebStatement rdf:resource='https://github.com/materialos/icons'/>
     </rdf:Description>
     <rdf:Description rdf:about=''
 		     xmlns:xapRights='http://ns.adobe.com/xap/1.0/rights/'
@@ -35,9 +35,9 @@
     </rdf:Description>
     <rdf:Description rdf:about=''
       xmlns:cc='http://creativecommons.org/ns#'>
-      <cc:attributionName>the MOS Contributors</cc:attributionName>
+      <cc:attributionName>MaterialOS Contributors</cc:attributionName>
     </rdf:Description>
-    
+
   </rdf:RDF>
 </x:xmpmeta>
 <?xpacket end='r'?>
