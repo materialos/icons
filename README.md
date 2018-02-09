@@ -31,7 +31,6 @@ If your interested in helping out or would like to request an icon, see our [wik
 
 
 ## Contributors
-
 Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
